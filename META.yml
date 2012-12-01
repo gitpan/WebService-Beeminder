@@ -19,9 +19,11 @@ requires:
   LWP::UserAgent: 0
   Moose: 0
   MooseX::Method::Signatures: 0
+  MooseX::Types: 0
+  MooseX::Types::Moose: 0
   perl: 5.010
   strict: 0
   warnings: 0
 resources:
   repository: git://github.com/pfenwick/WebService-Beeminder.git
-version: 0.001
+version: 0.002

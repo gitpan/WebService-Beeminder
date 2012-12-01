@@ -27,10 +27,12 @@ my %WriteMakefileArgs = (
     "LWP::UserAgent" => 0,
     "Moose" => 0,
     "MooseX::Method::Signatures" => 0,
+    "MooseX::Types" => 0,
+    "MooseX::Types::Moose" => 0,
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }
