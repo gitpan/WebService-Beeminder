@@ -4,7 +4,7 @@
       "Paul Fenwick <pjf@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Dist::Zilla version 5.012, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -50,10 +50,10 @@
    "resources" : {
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/pfenwick/WebService-Beeminder.git",
-         "web" : "https://github.com/pfenwick/WebService-Beeminder"
+         "url" : "git://github.com/pjf/WebService-Beeminder.git",
+         "web" : "https://github.com/pjf/WebService-Beeminder"
       }
    },
-   "version" : "0.002"
+   "version" : "0.003"
 }
 
